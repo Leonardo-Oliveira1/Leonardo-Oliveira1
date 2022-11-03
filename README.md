@@ -27,8 +27,6 @@
  ##
  <br>
  
- 
-- 🔥 Junior Web Developer
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Leonardo-Oliveira1?tab=repositories)
 
