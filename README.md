@@ -2,7 +2,7 @@
 
 <p>
 
-- 🔥 Desenvolvedor Back-End focado em PHP.
+- 🔥 Desenvolvedor PHP Back-End
 
 - 💻 Experiência de 2 anos trabalhando como bolsista na UFRN e como estagiário em Desenvolvimento de Sistemas.
 
@@ -28,15 +28,16 @@
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,ts,nodejs,postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
 <br>
 
-### Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=ts,jquery,sass,bootstrap)](https://skillicons.dev)
-<br>
-
-### Others
+### Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=git,bash,linux,docker,wordpress)](https://skillicons.dev)
 </div>
+
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=jquery,sass,bootstrap)](https://skillicons.dev)
+<br>
+
 
 ----
 
