@@ -4,7 +4,7 @@
 
 - 🔥 Desenvolvedor PHP Back-End
 
-- 💻 Experiência de 2 anos trabalhando como bolsista na UFRN e como estagiário em Desenvolvimento de Sistemas.
+- 💻 Experiência de 2 anos como bolsista na UFRN, estagiário e atualmente Desenvolvedor de Sistemas em tempo integral.
 
 - 📖 Técnico em T.I pelo [IMD/UFRN](https://www.metropoledigital.ufrn.br/portal/).
 
