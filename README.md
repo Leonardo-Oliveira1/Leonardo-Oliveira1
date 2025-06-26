@@ -2,7 +2,7 @@
 
 <p>
 
-- 🔥 Desenvolvedor PHP Back-End
+- 🔥 Desenvolvedor Back-End
 
 - 💻 Experiência de 3 anos como bolsista na UFRN, estagiário e atualmente Desenvolvedor de Sistemas em tempo integral.
 
@@ -10,9 +10,9 @@
 
 - 🚀 + de 30 projetos desenvolvidos no GitHub.
 
-- 🛠️ Minhas principais skills são **PHP, Laravel, SQL e Typescript**.
+- 🛠️ Minhas principais skills são **PHP, Laravel, Java EE, SQL e Typescript**.
 
-- ⚡ Atualmente estou estudando os **Frameworks e bibliotecas do PHP**.
+- ⚡ Atualmente estou estudando o **ecossistema do Java Enterprise e Java Spring**.
   
 - 🖖 Fã de carteirinha do Linux e enxadrista nas horas vagas
 
@@ -25,7 +25,7 @@
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,ts,nodejs,postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,ts,nodejs,postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
 <br>
 
 ### Ferramentas
